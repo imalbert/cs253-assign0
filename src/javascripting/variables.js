@@ -1,1 +1,3 @@
-// TODO: Replace this with your solution.
+var example = 'some string'
+console.log(example)
+

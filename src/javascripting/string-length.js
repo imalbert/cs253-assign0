@@ -1,1 +1,2 @@
-// TODO: Replace this with your solution.
+var example = 'example string'
+console.log(example.length)
